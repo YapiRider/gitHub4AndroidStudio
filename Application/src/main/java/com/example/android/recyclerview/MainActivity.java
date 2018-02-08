@@ -36,7 +36,7 @@ import android.widget.ViewAnimator;
  * For devices with displays with a width of 720dp or greater, the sample log is always visible,
  * on other devices it's visibility is controlled by an item on the Action Bar.
  *
- * Das ist eine Änderung
+ * Das ist die zweite Änderung
  */
 public class MainActivity extends SampleActivityBase {
 
