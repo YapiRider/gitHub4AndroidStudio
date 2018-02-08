@@ -37,6 +37,8 @@ import android.widget.ViewAnimator;
  * on other devices it's visibility is controlled by an item on the Action Bar.
  *
  * Das ist die zweite Änderung
+ *
+ * Änderung für den neuen branch.
  */
 public class MainActivity extends SampleActivityBase {
 
