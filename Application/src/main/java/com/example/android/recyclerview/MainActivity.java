@@ -43,6 +43,8 @@ import android.widget.ViewAnimator;
  * Änderung für den neuen branch. (2)
  *
  * Änderung für den neuen branch. (3)
+ *
+ * File direkt in der Repo geändert.
  */
 public class MainActivity extends SampleActivityBase {
 
