@@ -46,6 +46,8 @@ import android.widget.ViewAnimator;
  *
  * File direkt in der Repo geändert.
  *
+ * Konflikt erzeugen.
+ *
  * Local Konflikt erzeugen.
  */
 public class MainActivity extends SampleActivityBase {
