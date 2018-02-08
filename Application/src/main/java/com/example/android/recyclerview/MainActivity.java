@@ -39,6 +39,8 @@ import android.widget.ViewAnimator;
  * Das ist die zweite Änderung
  *
  * Änderung für den neuen branch.
+ *
+ * Änderung für den neuen branch. (2)
  */
 public class MainActivity extends SampleActivityBase {
 
