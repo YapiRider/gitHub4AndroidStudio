@@ -47,6 +47,8 @@ import android.widget.ViewAnimator;
  * File direkt in der Repo geändert.
  *
  * Konflikt erzeugen.
+ *
+ * Konflikt for stash (origin)
  */
 public class MainActivity extends SampleActivityBase {
 
