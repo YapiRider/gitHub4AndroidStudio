@@ -45,6 +45,8 @@ import android.widget.ViewAnimator;
  * Änderung für den neuen branch. (3)
  *
  * File direkt in der Repo geändert.
+ *
+ * Konflikt erzeugen.
  */
 public class MainActivity extends SampleActivityBase {
 
