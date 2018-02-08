@@ -48,7 +48,9 @@ import android.widget.ViewAnimator;
  *
  * Konflikt erzeugen.
  *
+ * Konflikt for stash (origin)
  * Local Konflikt erzeugen.
+ * => Aufglöst über merge
  */
 public class MainActivity extends SampleActivityBase {
 
